@@ -7,6 +7,10 @@ System.out.println("Fibonacci number from 1 to 1000");
 System.out.println("Fibonacci number");
 System.out.println("Fibonacci number from 1 to 100");
 System.out.println("Fibonacci number from 1 to 1000");
+System.out.println("Fibonacci number");
+System.out.println("Fibonacci number from 1 to 100");
+System.out.println("Fibonacci number from 1 to 1000");
+
 
 }
 }
